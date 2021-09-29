@@ -1,0 +1,9 @@
+diff a/Git2.html b/Git2.html	(rejected hunks)
+@@ -9,6 +9,7 @@
+     <h2> hello world</h2>
+     <p>mon deuxième jour de cours</p>
+     <p>super</p>
++    <p>Branche-1</p>
+ </head>
+ <body>
+     
